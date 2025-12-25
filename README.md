@@ -1,27 +1,38 @@
 # SQL Data Analytics Project (SQL Server)
 
-## Overview
-This project demonstrates advanced SQL analytics techniques using SQL Server (T-SQL). It focuses on solving real-world business questions through metrics, trend analysis,
-cumulative reporting, and segmentation.
+## Project Overview
+
+This project follows a complete SQL analytics lifecycle using SQL Server.  
+The analysis begins with exploratory data analysis (EDA) to understand data structure, dimensions, measures, date ranges, and overall data quality.
+
+Once the data is validated, the project progresses into advanced analytics, including:
+- Change-over-time analysis
+- Cumulative analysis
+- Performance analysis
+- Part-to-whole analysis
+- Data segmentation
+
+The objective is to simulate how data analysts answer real business questions using SQL Server, focusing on analytical reasoning rather than simple data retrieval.  
+The final outputs emphasize actionable insights and structured reporting that support data-driven decision-making for business stakeholders.
 
 ## Folder Structure
 SQL-Data-Analyst-Portfolio/
-│
-├── data/
-│   ├── raw_data.sql / csv files
-│
-├── sql/
-│   ├── 01_schema_validation.sql
-│   ├── 02_data_cleaning.sql
-│   ├── 03_kpi_analysis.sql
-│   ├── 04_trend_analysis.sql
-│   ├── 05_business_insights.sql
-│
-├── results/
-│   ├── Top customers
-│   ├── Top products
-│   ├── Revenue Contribution %
-├── README.md
+|  
+├── data/  
+│   ├── raw_data.sql / csv files  
+│  
+├── sql/  
+│   ├── 01_schema_validation.sql  
+│   ├── 02_data_cleaning.sql  
+│   ├── 03_kpi_analysis.sql  
+│   ├── 04_trend_analysis.sql  
+│   ├── 05_business_insights.sql  
+│  
+├── results/  
+│   ├── Top customers  
+│   ├── Top products  
+│   ├── Revenue Contribution %  
+├── README.md  
 
 ## Tools & Technologies
 - SQL Server (Developer / Express Edition)
