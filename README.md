@@ -1,5 +1,10 @@
 # SQL Data Analytics Project (SQL Server)
 
+## Result Example
+
+The screenshot displays a query for top 10 customers by revenue with the results grid.
+
+
 ## Project Overview
 
 This project demonstrates a full SQL analytics lifecycle using SQL Server and SSMS.
