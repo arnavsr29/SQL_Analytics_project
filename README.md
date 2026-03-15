@@ -4,6 +4,7 @@
 
 The screenshot displays a query for top 10 customers by revenue with the results grid.
 
+<img src="Top_customers.png" alt="Top 10 Customers Query Screenshot" width="700">
 
 ## Project Overview
 
